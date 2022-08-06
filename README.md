@@ -1,6 +1,7 @@
 # E-Commerce-backend
 
 ### Video Walkthrough:
+https://drive.google.com/file/d/1KEl_6o491Cxa0_BBgszqHaF8OwsXzcw9/view
 
 
   ## Badges
@@ -23,24 +24,20 @@
   To run this application it requires to install all dependancies using npm install .To run this application simply open the terminal and type npm start.
   ## Usage
   A simple application for an E-Commerce site , handling backend applications.Functionality tested on INSOMNIA. Screenshot below:
-  
+  ![Screenshot (7)](https://user-images.githubusercontent.com/106550353/183260772-a5611979-a9f0-42c5-b997-421571fa28d4.png)
+
   
   ## How to Contribute
   No contribution required
   
   ## Tests
-  No test is required
+  Testing for functionality of routes can be performed on Insomnia
   ## Questions?
   ### If you have any questions you can reach me here: 
   [https://github.com/Sidiro23](https://github.com/https://github.com/Sidiro23)  
   savvas.sidiropoulos72@gmail.com
-  
-  ### Screenshot
-  
-  ![Screenshot 2022-08-02 095439](https://user-images.githubusercontent.com/106550353/182405790-79f8c09f-6c05-47a1-bcb5-f13762670581.png)
-
-  
-  
+ 
+ 
   ## Resources
   ### https://www.npmjs.com/
   ### https://developer.mozilla.org/en-US/
@@ -52,4 +49,5 @@
    #### Node.js - Used for package management and to execute JavaScript to build command line tool for server-side scripting.
    #### Javascript - Used to base functionality of functions and prompts within the application.
    #### Dotenv - Used to encrypt password for database.
+   #### Sequelize used to connect and handle operating with my SQL
   
